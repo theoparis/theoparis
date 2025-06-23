@@ -1,8 +1,7 @@
 
 ## 👋 Hello There
 
-**My name is Theo and I'm a 20-year-old programmer and music producer.
-I have worked with frameworks such as Svelte and I'm currently exploring the C++ programming language.**
+**My name is Theo and I am 20 years old. My favorite video game is Minecraft and I like programming and music.**
 
 If you want to learn more about me, [you can head to my website](https://theoparis.com).
 
@@ -16,6 +15,6 @@ If you want to learn more about me, [you can head to my website](https://theopar
 
 ## 📫 How to reach me
 
-- <a rel="me" href="https://fosstodon.org/@theoparis">Mastodon</a>
+- <a rel="me" href="https://x.com/TheoParis04">Mastodon</a>
 - [Matrix](https://matrix.to/#/@creepinson:matrix.org)
 - [Codeberg](https://codeberg.org/theoparis)
