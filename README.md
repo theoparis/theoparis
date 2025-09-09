@@ -1,7 +1,7 @@
 
 ## 👋 Hello There
 
-**My name is Theo and I am 20 years old. My favorite video game is Minecraft and I like programming and music.**
+**My name is Theo and I am 21 years old. My favorite video game is Minecraft and I like programming and music.**
 
 If you want to learn more about me, [you can head to my website](https://theoparis.com).
 
@@ -11,7 +11,7 @@ If you want to learn more about me, [you can head to my website](https://theopar
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![C](https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=c&logoColor=%23A8B9CC)
+![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logo=rust)
 
 ## 📫 How to reach me
 
