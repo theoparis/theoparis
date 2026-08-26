@@ -1,7 +1,7 @@
 
 ## 👋 Hello There
 
-**My name is Theo and I am 21 years old. My favorite video game is Minecraft and I like programming and music.**
+**My name is Theo and I am 22 years old. My favorite video game is Minecraft and I like programming and music.**
 
 If you want to learn more about me, [you can head to my website](https://theoparis.com).
 
@@ -17,4 +17,3 @@ If you want to learn more about me, [you can head to my website](https://theopar
 
 - <a rel="me" href="https://x.com/TheoParis04">Mastodon</a>
 - [Matrix](https://matrix.to/#/@creepinson:matrix.org)
-- [Codeberg](https://codeberg.org/theoparis)
